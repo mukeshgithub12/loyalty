@@ -1,0 +1,1714 @@
+[
+  {
+    "date": "11/24/2021",
+    "sales": "Subaru",
+    "state": "North Dakota",
+    "city": "Fargo"
+  },
+
+  {
+    "date": "8/10/2021",
+    "sales": "Hyundai",
+    "state": "Punjab",
+    "city": "Tomay Kichwa"
+  },
+  {
+    "date": "8/22/2021",
+    "sales": "Mazda",
+    "state": "Punjab",
+    "city": "General Galarza"
+  },
+
+  {
+    "date": "11/13/2021",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Asahi"
+  },
+  {
+    "date": "6/11/2022",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Borisova Griva"
+  },
+
+  {
+    "date": "11/12/2021",
+    "sales": "Lexus",
+    "state": "Punjab",
+    "city": "Airmadidi"
+  },
+
+  {
+    "date": "2/24/2022",
+    "sales": "Land Rover",
+    "state": "Punjab",
+    "city": "Marília"
+  },
+
+  {
+    "date": "11/16/2021",
+    "sales": "GMC",
+    "state": "Kansas",
+    "city": "Kansas City"
+  },
+  {
+    "date": "2/22/2022",
+    "sales": "Pontiac",
+    "state": "Punjab",
+    "city": "Rurrenabaque"
+  },
+  {
+    "date": "4/21/2022",
+    "sales": "Lexus",
+    "state": "Alaska",
+    "city": "Anchorage"
+  },
+  {
+    "date": "2/23/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Mangxing"
+  },
+  {
+    "date": "12/15/2021",
+    "sales": "Hyundai",
+    "state": "Punjab",
+    "city": "Jedlnia-Letnisko"
+  },
+  {
+    "date": "12/12/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Krychaw"
+  },
+  {
+    "date": "1/31/2022",
+    "sales": "Bentley",
+    "state": "Punjab",
+    "city": "Kryvyy Rih"
+  },
+  {
+    "date": "4/8/2022",
+    "sales": "Ford",
+    "state": "Dalarna",
+    "city": "Älvdalen"
+  },
+  {
+    "date": "11/16/2021",
+    "sales": "Ford",
+    "state": "Thüringen",
+    "city": "Erfurt"
+  },
+  {
+    "date": "5/24/2022",
+    "sales": "Oldsmobile",
+    "state": "Punjab",
+    "city": "Kajansi"
+  },
+  {
+    "date": "6/3/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Kingston"
+  },
+  {
+    "date": "5/26/2022",
+    "sales": "Ford",
+    "state": "Punjab",
+    "city": "Santa Luzia"
+  },
+  {
+    "date": "1/18/2022",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Yurino"
+  },
+  {
+    "date": "1/9/2022",
+    "sales": "Hyundai",
+    "state": "Västra Götaland",
+    "city": "Skene"
+  },
+  {
+    "date": "9/20/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Cabusao"
+  },
+  {
+    "date": "9/21/2021",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Wuluquele"
+  },
+  {
+    "date": "11/12/2021",
+    "sales": "Subaru",
+    "state": "Punjab",
+    "city": "Mataguži"
+  },
+  {
+    "date": "4/2/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Taroudant"
+  },
+  {
+    "date": "10/22/2021",
+    "sales": "Land Rover",
+    "state": "Punjab",
+    "city": "Émpa"
+  },
+  {
+    "date": "9/29/2021",
+    "sales": "Honda",
+    "state": "Punjab",
+    "city": "Gunungangka"
+  },
+  {
+    "date": "10/15/2021",
+    "sales": "Oldsmobile",
+    "state": "Punjab",
+    "city": "Jarash"
+  },
+  {
+    "date": "11/28/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Mlalo"
+  },
+  {
+    "date": "5/5/2022",
+    "sales": "Lincoln",
+    "state": "Punjab",
+    "city": "Casa Branca"
+  },
+  {
+    "date": "3/4/2022",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Beixiaoying"
+  },
+  {
+    "date": "2/3/2022",
+    "sales": "Audi",
+    "state": "Västra Götaland",
+    "city": "Västra Frölunda"
+  },
+  {
+    "date": "11/11/2021",
+    "sales": "Jeep",
+    "state": "Punjab",
+    "city": "Lutomiersk"
+  },
+  {
+    "date": "12/21/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Ananea"
+  },
+  {
+    "date": "7/27/2021",
+    "sales": "Audi",
+    "state": "Nordrhein-Westfalen",
+    "city": "Duisburg"
+  },
+  {
+    "date": "10/22/2021",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "K’ulashi"
+  },
+  {
+    "date": "6/19/2022",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Krông Kmar"
+  },
+  {
+    "date": "11/16/2021",
+    "sales": "Lincoln",
+    "state": "Punjab",
+    "city": "Argasari"
+  },
+  {
+    "date": "11/9/2021",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Sanquan"
+  },
+  {
+    "date": "6/3/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Paucarbamba"
+  },
+  {
+    "date": "2/27/2022",
+    "sales": "Isuzu",
+    "state": "Punjab",
+    "city": "Santa Eulalia"
+  },
+  {
+    "date": "2/23/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Nouméa"
+  },
+  {
+    "date": "5/26/2022",
+    "sales": "Buick",
+    "state": "Punjab",
+    "city": "Pouso Alegre"
+  },
+  {
+    "date": "9/23/2021",
+    "sales": "Jeep",
+    "state": "Rhône-Alpes",
+    "city": "Lyon"
+  },
+  {
+    "date": "1/12/2022",
+    "sales": "Oldsmobile",
+    "state": "Punjab",
+    "city": "Gudermes"
+  },
+  {
+    "date": "10/16/2021",
+    "sales": "Dodge",
+    "state": "Punjab",
+    "city": "Wairinding"
+  },
+  {
+    "date": "6/17/2022",
+    "sales": "Mercury",
+    "state": "Punjab",
+    "city": "Jiuheyuan"
+  },
+  {
+    "date": "3/4/2022",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Mabalacat"
+  },
+  {
+    "date": "3/9/2022",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "El Charco"
+  },
+  {
+    "date": "2/13/2022",
+    "sales": "Subaru",
+    "state": "Kelantan",
+    "city": "Kota Bharu"
+  },
+  {
+    "date": "2/8/2022",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Dhī Nā‘im"
+  },
+  {
+    "date": "8/14/2021",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Rogoza"
+  },
+  {
+    "date": "6/30/2022",
+    "sales": "Acura",
+    "state": "Colorado",
+    "city": "Aurora"
+  },
+  {
+    "date": "4/4/2022",
+    "sales": "Ford",
+    "state": "Västra Götaland",
+    "city": "Uddevalla"
+  },
+  {
+    "date": "4/22/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Huangdimiao"
+  },
+  {
+    "date": "11/13/2021",
+    "sales": "Bentley",
+    "state": "Punjab",
+    "city": "Bandar-e Torkaman"
+  },
+  {
+    "date": "12/18/2021",
+    "sales": "Buick",
+    "state": "Stockholm",
+    "city": "Stockholm"
+  },
+  {
+    "date": "4/8/2022",
+    "sales": "Volvo",
+    "state": "Punjab",
+    "city": "Kembangkerang Lauk Timur"
+  },
+  {
+    "date": "10/6/2021",
+    "sales": "Buick",
+    "state": "Punjab",
+    "city": "Rancagadog"
+  },
+  {
+    "date": "10/29/2021",
+    "sales": "Saturn",
+    "state": "Île-de-France",
+    "city": "Saint-Cloud"
+  },
+  {
+    "date": "7/28/2021",
+    "sales": "Audi",
+    "state": "Punjab",
+    "city": "Kattaqo’rg’on"
+  },
+  {
+    "date": "9/11/2021",
+    "sales": "Isuzu",
+    "state": "Braga",
+    "city": "Quintas"
+  },
+  { "date": "9/25/2021", "sales": "BMW", "state": "Alberta", "city": "Leduc" },
+  {
+    "date": "8/17/2021",
+    "sales": "Nissan",
+    "state": "Punjab",
+    "city": "New Sibonga"
+  },
+  {
+    "date": "11/7/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Vinkkilä"
+  },
+  {
+    "date": "10/11/2021",
+    "sales": "Audi",
+    "state": "Punjab",
+    "city": "Domalanoan"
+  },
+  {
+    "date": "3/16/2022",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Al Ya‘rubīyah"
+  },
+  {
+    "date": "12/11/2021",
+    "sales": "Mazda",
+    "state": "Punjab",
+    "city": "Pardesiyya"
+  },
+  {
+    "date": "8/25/2021",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Xiaolongmen"
+  },
+  {
+    "date": "1/31/2022",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Campamento"
+  },
+  {
+    "date": "7/12/2022",
+    "sales": "Lotus",
+    "state": "Andalucia",
+    "city": "Sevilla"
+  },
+  {
+    "date": "9/2/2021",
+    "sales": "Mazda",
+    "state": "Île-de-France",
+    "city": "Sainte-Geneviève-des-Bois"
+  },
+  {
+    "date": "10/14/2021",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Filimonovo"
+  },
+  {
+    "date": "4/23/2022",
+    "sales": "Mazda",
+    "state": "Setúbal",
+    "city": "Monte Novo"
+  },
+  {
+    "date": "2/11/2022",
+    "sales": "Pontiac",
+    "state": "Braga",
+    "city": "Quintas"
+  },
+  {
+    "date": "7/14/2022",
+    "sales": "GMC",
+    "state": "Stockholm",
+    "city": "Stockholm"
+  },
+  {
+    "date": "11/6/2021",
+    "sales": "Kia",
+    "state": "Södermanland",
+    "city": "Eskilstuna"
+  },
+  {
+    "date": "7/17/2021",
+    "sales": "Lotus",
+    "state": "Punjab",
+    "city": "Atarodangwautu"
+  },
+  {
+    "date": "12/17/2021",
+    "sales": "Dodge",
+    "state": "Punjab",
+    "city": "Cristalina"
+  },
+  {
+    "date": "1/17/2022",
+    "sales": "Pontiac",
+    "state": "Louisiana",
+    "city": "New Orleans"
+  },
+  {
+    "date": "11/30/2021",
+    "sales": "BMW",
+    "state": "Punjab",
+    "city": "Zavety Il’icha"
+  },
+  {
+    "date": "10/21/2021",
+    "sales": "Mercury",
+    "state": "Ontario",
+    "city": "Peterborough"
+  },
+  {
+    "date": "10/31/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Daming"
+  },
+  {
+    "date": "11/12/2021",
+    "sales": "Dodge",
+    "state": "Skåne",
+    "city": "Ängelholm"
+  },
+  {
+    "date": "4/16/2022",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Ribeira Grande"
+  },
+  {
+    "date": "1/26/2022",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Young"
+  },
+  {
+    "date": "1/10/2022",
+    "sales": "Nissan",
+    "state": "Punjab",
+    "city": "Kabukarudi"
+  },
+  {
+    "date": "10/27/2021",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Krechevitsy"
+  },
+  {
+    "date": "5/10/2022",
+    "sales": "Nissan",
+    "state": "Punjab",
+    "city": "Chishtiān Mandi"
+  },
+  {
+    "date": "2/9/2022",
+    "sales": "Toyota",
+    "state": "Manitoba",
+    "city": "Minnedosa"
+  },
+  {
+    "date": "1/25/2022",
+    "sales": "Dodge",
+    "state": "Punjab",
+    "city": "Surcubamba"
+  },
+  {
+    "date": "9/14/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Noşratābād"
+  },
+  {
+    "date": "4/19/2022",
+    "sales": "Nissan",
+    "state": "Punjab",
+    "city": "Pardubice"
+  },
+  {
+    "date": "12/26/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Banjar Taro Kelod"
+  },
+  {
+    "date": "10/15/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Parang"
+  },
+  {
+    "date": "12/16/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Gunem"
+  },
+  {
+    "date": "12/22/2021",
+    "sales": "Mercury",
+    "state": "Skåne",
+    "city": "Osby"
+  },
+  {
+    "date": "6/13/2022",
+    "sales": "Lamborghini",
+    "state": "Punjab",
+    "city": "Spanish Wells"
+  },
+  {
+    "date": "5/20/2022",
+    "sales": "Dodge",
+    "state": "Yukon Territory",
+    "city": "Whitehorse"
+  },
+  {
+    "date": "12/7/2021",
+    "sales": "Porsche",
+    "state": "Punjab",
+    "city": "Gersikputih Tengah"
+  },
+  {
+    "date": "8/31/2021",
+    "sales": "Jaguar",
+    "state": "Île-de-France",
+    "city": "Paris 20"
+  },
+  {
+    "date": "9/22/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Shajing"
+  },
+  {
+    "date": "2/6/2022",
+    "sales": "Isuzu",
+    "state": "Punjab",
+    "city": "Levoberezhnaya"
+  },
+  {
+    "date": "7/10/2022",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Mertzig"
+  },
+  {
+    "date": "12/6/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Bhalil"
+  },
+  {
+    "date": "10/4/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Strzyżowice"
+  },
+  {
+    "date": "12/17/2021",
+    "sales": "Toyota",
+    "state": "Basse-Normandie",
+    "city": "Argentan"
+  },
+  {
+    "date": "6/28/2022",
+    "sales": "Maserati",
+    "state": "Punjab",
+    "city": "Dimitsána"
+  },
+  {
+    "date": "2/10/2022",
+    "sales": "Audi",
+    "state": "Punjab",
+    "city": "Huangzhuang"
+  },
+  {
+    "date": "5/25/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "As Sawdā"
+  },
+  {
+    "date": "5/12/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Rokiciny"
+  },
+  {
+    "date": "7/14/2022",
+    "sales": "Buick",
+    "state": "Île-de-France",
+    "city": "Paris 03"
+  },
+  {
+    "date": "8/26/2021",
+    "sales": "Jaguar",
+    "state": "Punjab",
+    "city": "Ust’-Donetskiy"
+  },
+  {
+    "date": "11/30/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Bidikotak"
+  },
+  {
+    "date": "3/14/2022",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Hanyuan"
+  },
+  {
+    "date": "1/13/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Cikole"
+  },
+  {
+    "date": "12/31/2021",
+    "sales": "Nissan",
+    "state": "Punjab",
+    "city": "Shuanghekou"
+  },
+  {
+    "date": "1/21/2022",
+    "sales": "Chrysler",
+    "state": "Punjab",
+    "city": "Ushumun"
+  },
+  {
+    "date": "7/19/2021",
+    "sales": "Mazda",
+    "state": "Punjab",
+    "city": "Nowy Korczyn"
+  },
+  {
+    "date": "10/7/2021",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Nzérékoré"
+  },
+  {
+    "date": "1/11/2022",
+    "sales": "Oldsmobile",
+    "state": "Punjab",
+    "city": "Karditsomagoúla"
+  },
+  {
+    "date": "7/10/2022",
+    "sales": "Lexus",
+    "state": "Texas",
+    "city": "Midland"
+  },
+  {
+    "date": "1/19/2022",
+    "sales": "Lamborghini",
+    "state": "Punjab",
+    "city": "Taraan"
+  },
+  {
+    "date": "3/15/2022",
+    "sales": "Land Rover",
+    "state": "Punjab",
+    "city": "Duszniki-Zdrój"
+  },
+  {
+    "date": "11/25/2021",
+    "sales": "Suzuki",
+    "state": "Braga",
+    "city": "Várzea"
+  },
+  {
+    "date": "8/31/2021",
+    "sales": "Toyota",
+    "state": "Oklahoma",
+    "city": "Tulsa"
+  },
+  {
+    "date": "5/12/2022",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Tongle"
+  },
+  {
+    "date": "9/6/2021",
+    "sales": "Ford",
+    "state": "Nord-Pas-de-Calais",
+    "city": "Dunkerque"
+  },
+  {
+    "date": "3/10/2022",
+    "sales": "Saab",
+    "state": "Punjab",
+    "city": "Thị Trấn Yên Châu"
+  },
+  {
+    "date": "10/16/2021",
+    "sales": "Chrysler",
+    "state": "Nuevo Leon",
+    "city": "Los Nogales"
+  },
+  {
+    "date": "8/16/2021",
+    "sales": "Jaguar",
+    "state": "Bretagne",
+    "city": "Quimper"
+  },
+  {
+    "date": "7/28/2021",
+    "sales": "Tesla",
+    "state": "Punjab",
+    "city": "Ust’-Izhora"
+  },
+  {
+    "date": "10/21/2021",
+    "sales": "Buick",
+    "state": "Västernorrland",
+    "city": "Härnösand"
+  },
+  {
+    "date": "8/28/2021",
+    "sales": "Kia",
+    "state": "Punjab",
+    "city": "Konstantinovo"
+  },
+  {
+    "date": "7/9/2022",
+    "sales": "Ford",
+    "state": "Punjab",
+    "city": "Solnechnogorsk"
+  },
+  {
+    "date": "12/10/2021",
+    "sales": "Oldsmobile",
+    "state": "Punjab",
+    "city": "Colima"
+  },
+  {
+    "date": "7/6/2022",
+    "sales": "Oldsmobile",
+    "state": "Punjab",
+    "city": "General Galarza"
+  },
+  {
+    "date": "5/21/2022",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Siraway"
+  },
+  {
+    "date": "12/27/2021",
+    "sales": "BMW",
+    "state": "Punjab",
+    "city": "Huangyuan Chengguanzhen"
+  },
+  {
+    "date": "12/2/2021",
+    "sales": "Toyota",
+    "state": "Île-de-France",
+    "city": "Courtaboeuf"
+  },
+  {
+    "date": "8/18/2021",
+    "sales": "GMC",
+    "state": "Punjab",
+    "city": "San Fernando de Atabapo"
+  },
+  {
+    "date": "4/17/2022",
+    "sales": "Plymouth",
+    "state": "Punjab",
+    "city": "Nizhniy Tagil"
+  },
+  {
+    "date": "7/29/2021",
+    "sales": "Hyundai",
+    "state": "Punjab",
+    "city": "Nahāvand"
+  },
+  {
+    "date": "11/22/2021",
+    "sales": "Acura",
+    "state": "Ontario",
+    "city": "Petrolia"
+  },
+  {
+    "date": "2/24/2022",
+    "sales": "Lincoln",
+    "state": "Punjab",
+    "city": "São Pedro"
+  },
+  { "date": "3/22/2022", "sales": "GMC", "state": "Aveiro", "city": "Veiros" },
+  {
+    "date": "5/6/2022",
+    "sales": "Kia",
+    "state": "Leiria",
+    "city": "Olho Marinho"
+  },
+  {
+    "date": "6/17/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Cibungur"
+  },
+  {
+    "date": "12/24/2021",
+    "sales": "Infiniti",
+    "state": "Punjab",
+    "city": "Tanabe"
+  },
+  {
+    "date": "12/5/2021",
+    "sales": "Honda",
+    "state": "Punjab",
+    "city": "Rizokárpaso"
+  },
+  {
+    "date": "1/30/2022",
+    "sales": "Lincoln",
+    "state": "Punjab",
+    "city": "Haizhouwobao"
+  },
+  {
+    "date": "10/5/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Miao’ergou"
+  },
+  {
+    "date": "11/24/2021",
+    "sales": "Ford",
+    "state": "Punjab",
+    "city": "San José de Colinas"
+  },
+  {
+    "date": "5/18/2022",
+    "sales": "Dodge",
+    "state": "Punjab",
+    "city": "Igede-Ekiti"
+  },
+  {
+    "date": "1/1/2022",
+    "sales": "Oldsmobile",
+    "state": "Punjab",
+    "city": "Sung Noen"
+  },
+  {
+    "date": "12/30/2021",
+    "sales": "Pontiac",
+    "state": "Punjab",
+    "city": "Arapongas"
+  },
+  {
+    "date": "12/14/2021",
+    "sales": "Chrysler",
+    "state": "Punjab",
+    "city": "Zadvorsko"
+  },
+  {
+    "date": "2/18/2022",
+    "sales": "Suzuki",
+    "state": "Punjab",
+    "city": "São Luiz Gonzaga"
+  },
+  {
+    "date": "3/15/2022",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Wangbuzhuang"
+  },
+  {
+    "date": "3/2/2022",
+    "sales": "Chrysler",
+    "state": "Punjab",
+    "city": "Langensari"
+  },
+  {
+    "date": "1/4/2022",
+    "sales": "Toyota",
+    "state": "California",
+    "city": "Newport Beach"
+  },
+  {
+    "date": "10/9/2021",
+    "sales": "Dodge",
+    "state": "Braga",
+    "city": "Cabeçudos"
+  },
+  {
+    "date": "11/3/2021",
+    "sales": "Oldsmobile",
+    "state": "Punjab",
+    "city": "Trzemeszno"
+  },
+  {
+    "date": "5/29/2022",
+    "sales": "Kia",
+    "state": "Punjab",
+    "city": "Nizhnyaya Maktama"
+  },
+  {
+    "date": "2/23/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Canavieiras"
+  },
+  {
+    "date": "3/28/2022",
+    "sales": "Mercury",
+    "state": "Punjab",
+    "city": "Caucagüito"
+  },
+  {
+    "date": "5/20/2022",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Priyutovo"
+  },
+  {
+    "date": "4/29/2022",
+    "sales": "Infiniti",
+    "state": "Ohio",
+    "city": "Cincinnati"
+  },
+  {
+    "date": "5/30/2022",
+    "sales": "Chrysler",
+    "state": "Punjab",
+    "city": "Cigoong"
+  },
+  {
+    "date": "4/26/2022",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Shengli"
+  },
+  {
+    "date": "12/29/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Pejibaye"
+  },
+  {
+    "date": "10/25/2021",
+    "sales": "Honda",
+    "state": "Punjab",
+    "city": "Cherven Bryag"
+  },
+  {
+    "date": "10/9/2021",
+    "sales": "Aston Martin",
+    "state": "Provence-Alpes-Côte d'Azur",
+    "city": "Châteaurenard"
+  },
+  {
+    "date": "8/16/2021",
+    "sales": "Buick",
+    "state": "Punjab",
+    "city": "Del Campillo"
+  },
+  {
+    "date": "7/20/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Rimpeso"
+  },
+  {
+    "date": "8/11/2021",
+    "sales": "Land Rover",
+    "state": "Lorraine",
+    "city": "Golbey"
+  },
+  {
+    "date": "1/13/2022",
+    "sales": "Lincoln",
+    "state": "Punjab",
+    "city": "Iwatsuki"
+  },
+  {
+    "date": "11/23/2021",
+    "sales": "Ford",
+    "state": "Punjab",
+    "city": "Mohale’s Hoek"
+  },
+  {
+    "date": "12/12/2021",
+    "sales": "Pontiac",
+    "state": "Punjab",
+    "city": "Kokstad"
+  },
+  {
+    "date": "9/21/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Zopilotepe"
+  },
+  {
+    "date": "4/2/2022",
+    "sales": "Ford",
+    "state": "Punjab",
+    "city": "Meiyuan Xincun"
+  },
+  {
+    "date": "5/31/2022",
+    "sales": "Cadillac",
+    "state": "Punjab",
+    "city": "Nantang"
+  },
+  {
+    "date": "11/22/2021",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Houxixi"
+  },
+  {
+    "date": "11/15/2021",
+    "sales": "Pontiac",
+    "state": "Mexico",
+    "city": "Emiliano Zapata"
+  },
+  {
+    "date": "10/5/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Oinófyta"
+  },
+  {
+    "date": "1/27/2022",
+    "sales": "Ford",
+    "state": "Skåne",
+    "city": "Helsingborg"
+  },
+  {
+    "date": "12/3/2021",
+    "sales": "Pontiac",
+    "state": "Punjab",
+    "city": "Osvaldo Cruz"
+  },
+  {
+    "date": "7/21/2021",
+    "sales": "Land Rover",
+    "state": "Punjab",
+    "city": "Citampian"
+  },
+  {
+    "date": "3/27/2022",
+    "sales": "Land Rover",
+    "state": "Texas",
+    "city": "Dallas"
+  },
+  {
+    "date": "6/18/2022",
+    "sales": "Mercury",
+    "state": "Porto",
+    "city": "Portelinha"
+  },
+  {
+    "date": "9/21/2021",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Antopal’"
+  },
+  {
+    "date": "2/28/2022",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Livramento do Brumado"
+  },
+  {
+    "date": "9/13/2021",
+    "sales": "Lotus",
+    "state": "Punjab",
+    "city": "Clogherhead"
+  },
+  {
+    "date": "3/7/2022",
+    "sales": "Ford",
+    "state": "New York",
+    "city": "Staten Island"
+  },
+  {
+    "date": "6/7/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Guazhou"
+  },
+  {
+    "date": "8/15/2021",
+    "sales": "Lamborghini",
+    "state": "Punjab",
+    "city": "Loja"
+  },
+  {
+    "date": "2/22/2022",
+    "sales": "Aston Martin",
+    "state": "Punjab",
+    "city": "Kostyantynivka"
+  },
+  {
+    "date": "7/24/2021",
+    "sales": "Honda",
+    "state": "Punjab",
+    "city": "Gubengairlangga"
+  },
+  {
+    "date": "4/8/2022",
+    "sales": "Infiniti",
+    "state": "Nord-Pas-de-Calais",
+    "city": "Béthune"
+  },
+  {
+    "date": "4/1/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Dún Laoghaire"
+  },
+  {
+    "date": "1/30/2022",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Zaragoza"
+  },
+  {
+    "date": "4/15/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Narong"
+  },
+  {
+    "date": "2/18/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Kaset Wisai"
+  },
+  {
+    "date": "9/16/2021",
+    "sales": "Chrysler",
+    "state": "British Columbia",
+    "city": "Nanaimo"
+  },
+  {
+    "date": "10/21/2021",
+    "sales": "Volvo",
+    "state": "Punjab",
+    "city": "Shanxiahu"
+  },
+  {
+    "date": "9/13/2021",
+    "sales": "Mercury",
+    "state": "Punjab",
+    "city": "Cihambali"
+  },
+  {
+    "date": "8/30/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Ochla"
+  },
+  {
+    "date": "5/21/2022",
+    "sales": "Honda",
+    "state": "Punjab",
+    "city": "Kaset Sombun"
+  },
+  {
+    "date": "4/12/2022",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Shilin"
+  },
+  {
+    "date": "5/12/2022",
+    "sales": "Mazda",
+    "state": "Punjab",
+    "city": "Al Lubban al Gharbī"
+  },
+  {
+    "date": "9/18/2021",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Armação"
+  },
+  {
+    "date": "6/1/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Jabłonica Polska"
+  },
+  {
+    "date": "12/13/2021",
+    "sales": "Lincoln",
+    "state": "Punjab",
+    "city": "Sabanalarga"
+  },
+  {
+    "date": "3/11/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Wangping"
+  },
+  {
+    "date": "10/13/2021",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Tambillo"
+  },
+  {
+    "date": "11/23/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Pretana"
+  },
+  {
+    "date": "8/28/2021",
+    "sales": "Ford",
+    "state": "Punjab",
+    "city": "Tiantai Chengguanzhen"
+  },
+  {
+    "date": "7/19/2021",
+    "sales": "Volvo",
+    "state": "Niedersachsen",
+    "city": "Hannover"
+  },
+  {
+    "date": "2/14/2022",
+    "sales": "Kia",
+    "state": "Martinique",
+    "city": "Fort-de-France"
+  },
+  {
+    "date": "9/9/2021",
+    "sales": "Lexus",
+    "state": "Setúbal",
+    "city": "Santana"
+  },
+  {
+    "date": "8/31/2021",
+    "sales": "BMW",
+    "state": "Punjab",
+    "city": "Pervomays’ke"
+  },
+  {
+    "date": "6/17/2022",
+    "sales": "McLaren",
+    "state": "Halland",
+    "city": "Kungsbacka"
+  },
+  {
+    "date": "12/19/2021",
+    "sales": "Mercury",
+    "state": "Braga",
+    "city": "Tabuadelo"
+  },
+  {
+    "date": "5/6/2022",
+    "sales": "Cadillac",
+    "state": "Santarém",
+    "city": "Ulme"
+  },
+  {
+    "date": "12/22/2021",
+    "sales": "Dodge",
+    "state": "Punjab",
+    "city": "Patnongon"
+  },
+  {
+    "date": "11/18/2021",
+    "sales": "Mercury",
+    "state": "Punjab",
+    "city": "Yonglong"
+  },
+  {
+    "date": "1/24/2022",
+    "sales": "Buick",
+    "state": "Punjab",
+    "city": "Pasanggrahan"
+  },
+  {
+    "date": "11/26/2021",
+    "sales": "Nissan",
+    "state": "Île-de-France",
+    "city": "Paris 17"
+  },
+  {
+    "date": "9/17/2021",
+    "sales": "Pontiac",
+    "state": "Punjab",
+    "city": "Gandorhun"
+  },
+  {
+    "date": "8/17/2021",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "New Washington"
+  },
+  {
+    "date": "12/3/2021",
+    "sales": "Cadillac",
+    "state": "Punjab",
+    "city": "Agrínio"
+  },
+  {
+    "date": "6/16/2022",
+    "sales": "Nissan",
+    "state": "Punjab",
+    "city": "Taraban Timur"
+  },
+  {
+    "date": "11/8/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Shīrvān"
+  },
+  {
+    "date": "2/19/2022",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "Wangyi Zhendian"
+  },
+  {
+    "date": "11/25/2021",
+    "sales": "Nissan",
+    "state": "Punjab",
+    "city": "Buenos Aires"
+  },
+  {
+    "date": "9/28/2021",
+    "sales": "BMW",
+    "state": "Alberta",
+    "city": "Calgary"
+  },
+  {
+    "date": "5/2/2022",
+    "sales": "Acura",
+    "state": "Stockholm",
+    "city": "Järfälla"
+  },
+  {
+    "date": "5/16/2022",
+    "sales": "Toyota",
+    "state": "Île-de-France",
+    "city": "Paris 07"
+  },
+  {
+    "date": "6/17/2022",
+    "sales": "Nissan",
+    "state": "Punjab",
+    "city": "Al Ḩawāmidīyah"
+  },
+  {
+    "date": "5/21/2022",
+    "sales": "Audi",
+    "state": "Punjab",
+    "city": "Redange-sur-Attert"
+  },
+  {
+    "date": "4/23/2022",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Zhangye"
+  },
+  {
+    "date": "12/14/2021",
+    "sales": "Ford",
+    "state": "Punjab",
+    "city": "Veselí nad Lužnicí"
+  },
+  {
+    "date": "7/4/2022",
+    "sales": "Subaru",
+    "state": "Punjab",
+    "city": "Sagua de Tánamo"
+  },
+  {
+    "date": "8/3/2021",
+    "sales": "Jeep",
+    "state": "Punjab",
+    "city": "Monte Patria"
+  },
+  {
+    "date": "5/14/2022",
+    "sales": "Volvo",
+    "state": "Punjab",
+    "city": "Banjar Petak"
+  },
+  {
+    "date": "1/7/2022",
+    "sales": "Audi",
+    "state": "Punjab",
+    "city": "Chust Shahri"
+  },
+  { "date": "9/30/2021", "sales": "Kia", "state": "Florida", "city": "Naples" },
+  {
+    "date": "10/20/2021",
+    "sales": "Land Rover",
+    "state": "Punjab",
+    "city": "Phra Pradaeng"
+  },
+  {
+    "date": "11/20/2021",
+    "sales": "Acura",
+    "state": "Punjab",
+    "city": "Niigata-shi"
+  },
+  {
+    "date": "11/18/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Krajan Kerjo"
+  },
+  {
+    "date": "12/23/2021",
+    "sales": "Mercedes-Benz",
+    "state": "Punjab",
+    "city": "Itatinga"
+  },
+  {
+    "date": "2/2/2022",
+    "sales": "Toyota",
+    "state": "Castelo Branco",
+    "city": "Cernache do Bonjardim"
+  },
+  {
+    "date": "10/10/2021",
+    "sales": "Aston Martin",
+    "state": "Punjab",
+    "city": "Youfang"
+  },
+  {
+    "date": "3/1/2022",
+    "sales": "Dodge",
+    "state": "Punjab",
+    "city": "Santa Cecília"
+  },
+  {
+    "date": "5/26/2022",
+    "sales": "Maserati",
+    "state": "Punjab",
+    "city": "Pasirreungit"
+  },
+  {
+    "date": "1/23/2022",
+    "sales": "Mazda",
+    "state": "Punjab",
+    "city": "Xiangyangpu"
+  },
+  {
+    "date": "10/28/2021",
+    "sales": "Chrysler",
+    "state": "Veracruz Llave",
+    "city": "Rancho Nuevo"
+  },
+  {
+    "date": "5/18/2022",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Bangil"
+  },
+  {
+    "date": "8/29/2021",
+    "sales": "Land Rover",
+    "state": "Punjab",
+    "city": "Menol"
+  },
+  {
+    "date": "1/10/2022",
+    "sales": "Acura",
+    "state": "Punjab",
+    "city": "Tyrawa Wołoska"
+  },
+  {
+    "date": "8/12/2021",
+    "sales": "Mercury",
+    "state": "Punjab",
+    "city": "Karengan"
+  },
+  {
+    "date": "3/25/2022",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Hoxtolgay"
+  },
+  {
+    "date": "1/1/2022",
+    "sales": "Mercedes-Benz",
+    "state": "Alberta",
+    "city": "Lac La Biche"
+  },
+  {
+    "date": "10/14/2021",
+    "sales": "Oldsmobile",
+    "state": "Punjab",
+    "city": "Czarnocin"
+  },
+  {
+    "date": "4/29/2022",
+    "sales": "Mazda",
+    "state": "Viana do Castelo",
+    "city": "Cimo de Vila"
+  },
+  {
+    "date": "9/10/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Punkalaidun"
+  },
+  {
+    "date": "6/13/2022",
+    "sales": "Infiniti",
+    "state": "Punjab",
+    "city": "Prakhon Chai"
+  },
+  {
+    "date": "5/16/2022",
+    "sales": "Plymouth",
+    "state": "Punjab",
+    "city": "Port Elizabeth"
+  },
+  {
+    "date": "9/27/2021",
+    "sales": "Volkswagen",
+    "state": "Punjab",
+    "city": "Bissau"
+  },
+  {
+    "date": "6/18/2022",
+    "sales": "Suzuki",
+    "state": "Punjab",
+    "city": "Shaochang"
+  },
+  {
+    "date": "6/3/2022",
+    "sales": "Hyundai",
+    "state": "North Carolina",
+    "city": "Durham"
+  },
+  {
+    "date": "5/31/2022",
+    "sales": "Ford",
+    "state": "Punjab",
+    "city": "Néo Psychikó"
+  },
+  {
+    "date": "1/3/2022",
+    "sales": "Suzuki",
+    "state": "Punjab",
+    "city": "Banī Walīd"
+  },
+  {
+    "date": "6/20/2022",
+    "sales": "Cadillac",
+    "state": "Örebro",
+    "city": "Karlskoga"
+  },
+  {
+    "date": "4/25/2022",
+    "sales": "Lincoln",
+    "state": "Punjab",
+    "city": "Florianópolis"
+  },
+  {
+    "date": "8/3/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Guaitarilla"
+  },
+  {
+    "date": "12/26/2021",
+    "sales": "Pontiac",
+    "state": "Punjab",
+    "city": "San Javier"
+  },
+  {
+    "date": "7/23/2021",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "San Sebastián"
+  },
+  {
+    "date": "5/16/2022",
+    "sales": "Pontiac",
+    "state": "Punjab",
+    "city": "Sarykemer"
+  },
+  {
+    "date": "8/11/2021",
+    "sales": "Lincoln",
+    "state": "Punjab",
+    "city": "Bhamdoûn el Mhatta"
+  },
+  {
+    "date": "11/7/2021",
+    "sales": "Mitsubishi",
+    "state": "Punjab",
+    "city": "Walenrang"
+  },
+  {
+    "date": "10/30/2021",
+    "sales": "Toyota",
+    "state": "Punjab",
+    "city": "San Pedro"
+  },
+  {
+    "date": "2/17/2022",
+    "sales": "Chevrolet",
+    "state": "Punjab",
+    "city": "Qianguo"
+  },
+  {
+    "date": "11/8/2021",
+    "sales": "Ford",
+    "state": "Martinique",
+    "city": "Schœlcher"
+  },
+  {
+    "date": "4/10/2022",
+    "sales": "Land Rover",
+    "state": "Punjab",
+    "city": "Rutul"
+  },
+  {
+    "date": "11/21/2021",
+    "sales": "Ford",
+    "state": "Punjab",
+    "city": "San Miguel de Tucumán"
+  },
+  {
+    "date": "1/23/2022",
+    "sales": "Land Rover",
+    "state": "Punjab",
+    "city": "Meiyao"
+  }
+]

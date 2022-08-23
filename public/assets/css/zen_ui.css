@@ -1,0 +1,350 @@
+.b-brand img {
+  width: 134px !important;
+}
+
+.pcoded-header .m-header {
+  background-color: #fff !important;
+}
+
+.mobile-menu span:before {
+  background-color: rgb(0 0 0 / 80%) !important;
+}
+
+.mobile-menu span {
+  background-color: rgb(0 0 0 / 80%) !important;
+}
+
+.mobile-menu span:after {
+  background-color: rgb(0 0 0 / 80%) !important;
+}
+
+.mobile-menu:after {
+  background: #2ecc7124 !important;
+}
+
+.pcoded-navbar .pcoded-inner-navbar li.pcoded-menu-caption label:after {
+  background: rgb(70 60 60 / 21%) !important;
+}
+
+.pcoded-navbar.menu-light.navbar-collapsed .pcoded-menu-caption:after {
+  background: rgb(0 0 0 / 0%);
+}
+
+#Nav-Style li {
+  margin-right: 10px;
+  margin-left: 10px;
+  color: #6c757d;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.Breadcrumb_Bg ul li :hover {
+  border-bottom: 3px solid #71bf45;
+  transition: 0.1s all;
+}
+
+body {
+  overflow: hidden ;
+}
+
+
+.pcoded-content {
+  padding: 2px !important;
+}
+
+
+.card {
+  border-top: 0;
+}
+
+.Breadcrumb_Bg ul .no_hoveEffect :hover {
+  border-bottom: none;
+  transition: none;
+}
+
+.Breadcrumb_Bg ul li.no_hoveEffect .dropdown-menu {
+  min-width: auto;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 2px;
+  padding: 0;
+}
+
+.Breadcrumb_Bg ul li.no_hoveEffect .dropdown-toggle::after {
+  display: none;
+}
+
+.zen_card {
+  height: 85vh;
+  margin-bottom: 0;
+  overflow: auto;
+}
+
+.pcoded-content.dashboard_main {
+  padding: 10px 16px !important;
+}
+
+/* Scale alert: Start  */
+
+.sclAlertContainer {
+  z-index: 999;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  bottom: 3px;
+  right: 20px;
+}
+
+.sclAlertContainer .alert {
+  width: 28%;
+}
+
+/* Scale alert  End*/
+
+.Flex-Box-Item {
+  line-height: 20px;
+  text-align: center;
+}
+
+/*--------------------- custom ui changes ---------------------*/
+
+/* changes ui  */
+
+.pcoded-navbar .pcoded-inner-navbar > li.active > a:before,
+.pcoded-navbar .pcoded-inner-navbar > li.pcoded-trigger > a:before {
+  content: none !important;
+}
+
+/* .pcoded-navbar.menu-light .pcoded-inner-navbar > li.active > a,
+.pcoded-navbar.menu-light .pcoded-inner-navbar > li.pcoded-trigger > a {
+  background: #58ba41 !important;
+} */
+
+.pcoded-navbar .pcoded-inner-navbar li {
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+.pcoded-navbar .pcoded-inner-navbar li:hover {
+  background: #58ba41 !important;
+  color: #fff;
+  /* -webkit-transition: all 0.7s ease-in-out; */
+}
+
+.pcoded-navbar .pcoded-inner-navbar li a {
+  box-shadow: none !important;
+}
+
+.pcoded-inner-navbar > li > a {
+  padding: 12px 0.4rem 12px 0.4rem !important;
+  font-size: 13px !important;
+  border-bottom: 1px solid rgb(0 0 0 / 10%) !important;
+}
+
+.pcoded-inner-navbar i {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.dashboard_main .card {
+  box-shadow: none !important;
+}
+
+.dashboard_main .card_border,
+.A-boxborder {
+  border: 1px solid #909eb1a1;
+  box-shadow: none;
+}
+
+.dashboard_main .card-body {
+  padding: 8px;
+}
+
+.dashboard_main .card-body h2 {
+  font-size: 17px;
+  font-weight: 200;
+  color: #524e4e;
+}
+
+.breadcrumb-item a {
+  color: #3e3b3b;
+}
+
+.pcoded-navbar.navbar-collapsed
+  .pcoded-inner-navbar
+  > li
+  > a
+  > .pcoded-micon
+  + .pcoded-mtext {
+  font-size: 14px !important;
+}
+
+.pcoded-content {
+  background-color: #fff;
+}
+
+.nav-item .pcoded-micon {
+  font-size: 13px;
+}
+
+.pcoded-navbar .pcoded-inner-navbar li > a > .pcoded-micon {
+  margin-bottom: 0px !important;
+}
+
+.icondiv i {
+  font-size: 20px;
+  color: #94d386;
+}
+
+.color-lite-black {
+  color: #868e96 !important;
+  font-size: 14px;
+}
+
+.ps__thumb-y {
+  display: none;
+}
+
+.department-box {
+  margin-left: 0.8rem;
+  width: 13%;
+  height: 9%;
+  border: 1px solid #909eb1a1;
+  padding: 5px;
+}
+
+.icon-color i {
+  font-size: 1.2rem;
+  color: #6e6969;
+  color: #58ba41a3;
+}
+
+.department-box a p {
+  color: #868e96;
+}
+
+.zen_card {
+  height: 100vh !important;
+  overflow: hidden !important;
+}
+
+/* changes ui end */
+
+/*--------------------- custom ui changes end---------------------*/
+
+.wrapper {
+  width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+
+  /*background:#fff;*/
+  border-radius: 4px;
+}
+
+canvas {
+  background: #fff;
+  border: 1px grey;
+  padding: 20px;
+}
+.card_border {
+  border: 1px solid #f8f9fa;
+}
+
+
+/* table filter  */
+.tablescroll{
+  overflow: auto;
+   max-height: calc(100vh - 100px);
+   width: 100%;
+}
+.tablescroll table {
+border-collapse: collapse;
+   width: 100%;
+}
+
+.tablescroll thead,
+.tablescroll tfoot {
+background: #eee;
+}
+.tablescroll thead {
+position: sticky;
+top: -2px;
+}
+.tablescroll tfoot {
+position: sticky;
+bottom: -1px;
+}
+.tablescroll tfoot tr th{
+  font-weight: 600;
+}
+.tablescroll thead tr th{
+  font-weight: 600;
+}
+.tablescroll table {
+  font-size: 13px;
+}
+
+/* .ActiveLink{
+  background-color: #97cf66;
+  color: #fff !important;
+} */
+
+/*----------======== react select =-------*/
+.css-1s2u09g-control{
+border-radius: 0px !important;
+}
+.css-1pahdxg-control{
+  border-width: 0px !important;
+  border-radius: 0px !important;
+  box-shadow: 0 0 0 1px #0073aa !important;
+}
+.css-1pahdxg-control:hover {
+  border-color: #0073aa !important;
+}
+ 
+/*----------======== react select =-------*/
+ 
+
+.curcer_pointer{
+  cursor: pointer;
+  font-size: 13px;
+  color: #505051;
+}
+
+.bnAwAJ{
+  /* border: 1px solid lightgray !important; */
+}
+.kgEPYv:not(:last-of-type) {
+  border-bottom-width: 0px !important;
+}
+.gZWIKX{
+  border-bottom-width: 0px !important;
+}
+.kgEPYv,.bynhzm,.zruCi{
+  min-height: 35px !important;
+}
+.bynhzm:not(:last-of-type) ,.zruCi:not(:last-of-type) ,.jVeafb:not(:last-of-type){
+  border-bottom-width: 0px !important;
+}
+.rdt_TableHeadRow ,.rdt_TableHead{
+  background-color: aliceblue !important;
+}
+
+.Form_section{
+  border: 1px solid lightgray;
+  padding: 10px 30px;
+  height: 80vh;
+}
+
+.pcoded-navbar.menu-light .pcoded-inner-navbar > li.active > a {
+  background: #97CF66 !important;
+  color: #fff;
+}
+ 
+.tstyle table input{
+  border: 1px inset #f4f4f4
+} 
+.tstyle table input:focus{
+  border-color: #66afe9;
+    -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 8%) inset, 0 0 8px rgb(102 175 233 / 60%);
+} 

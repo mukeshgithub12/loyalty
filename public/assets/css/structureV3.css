@@ -1,0 +1,85 @@
+ .pcoded-navbar .pcoded-inner-navbar li > a{
+    text-align: left;
+    padding: 0;
+    margin: 5px 0 !important;
+    display: flex;
+    flex-direction: column;
+    position: static;
+    align-items: center;
+}
+
+.pcoded-navbar.navbar-collapsed .pcoded-inner-navbar > li > a > .pcoded-micon + .pcoded-mtext{
+    position: unset;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+
+.pcoded-navbar.navbar-collapsed .pcoded-inner-navbar > li > a {
+    padding: 5px 10px;
+}
+
+
+.pcoded-navbar.navbar-collapsed:hover .pcoded-inner-navbar > li > a > .pcoded-mtext:hover {
+    transform: rotateY(0deg);
+    opacity: 1 !important;
+}
+
+.pcoded-navbar.navbar-collapsed .pcoded-inner-navbar > li > a > .pcoded-mtext {
+    transform: rotateY(0deg);
+    opacity: 1 !important;
+}
+
+.pcoded-navbar .pcoded-inner-navbar li > a > .pcoded-micon {
+    font-size: 18px;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+.pcoded-navbar .pcoded-inner-navbar li:hover {
+    background: #97CF66;
+    color: #fff;
+}
+
+.pcoded-navbar.menu-light .pcoded-inner-navbar li:hover > a{
+    color: #fff;
+    transition: none;
+}
+
+/* .pcoded-navbar .pcoded-inner-navbar li.active{
+
+} */
+
+.pcoded-header .m-header{
+    width: 170px;
+}
+
+.pcoded-navbar.navbar-collapsed {
+    width: 83px !important;
+}
+
+.pcoded-navbar.navbar-collapsed:hover {
+    width: 83px !important;
+}
+
+.pcoded-navbar.menupos-fixed .scroll-div.navbar-content {
+    box-shadow: 5px 0 10px -10px #948f8f;
+}
+
+.pcoded-navbar .pcoded-inner-navbar li a{
+    box-shadow: 0 5px 5px -5px #948f8f;
+    margin: 0 !important;
+}
+
+li.nav-item.pcoded-trigger {
+    background: #97CF66 !important;
+}
+
+/* .pcoded-navbar.menu-light .pcoded-inner-navbar > li.active > a, .pcoded-navbar.menu-light .pcoded-inner-navbar > li.pcoded-trigger > a {
+    background: #97CF66 !important;
+    color: #fff;
+} */
+.zen_card{
+    background-color:#fff !important;
+}
