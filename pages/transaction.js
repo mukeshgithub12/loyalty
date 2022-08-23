@@ -8,7 +8,7 @@ import Breadcrumb from "../components/Breadcrumb";
 const Transaction = () => {
   return (
     <>
-      <div className="pcoded-main-container">
+      <div className="pcoded-main-container" >
         <Breadcrumb page_title="Transaction"/>
         <div className="pcoded-content">
           <div className="dashboard_main pcoded-content zen_card bg-white">
